@@ -1,0 +1,1 @@
+# Check that string characters are unique.
